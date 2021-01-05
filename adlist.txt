@@ -1,3 +1,7 @@
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# https://www.github.developerdan.com/hosts/
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+# https://dbl.oisd.nl/
+https://dbl.oisd.nl/
+# https://firebog.net/
 https://adaway.org/hosts.txt
